@@ -1,25 +1,54 @@
-🌱 Renewalyze
-Data-Driven Evaluation of Renewable Energy Systems through Advanced Mining Techniques
-🚀 Overview
+# 🌞 Renewalyze
+### Turning Renewable Energy Data into Sustainable Intelligence  
+Empowering clean energy systems through advanced data mining and predictive analytics.
 
-Renewalyze is a data mining and analytics framework designed to evaluate, benchmark, and optimize renewable energy systems. This repository integrates machine learning, statistical analysis, and visualization pipelines to extract actionable insights from renewable energy datasets—driving smarter, cleaner, and more efficient energy strategies.
+---
 
-🔍 Key Features
+## 📈 Overview
+**Renewalyze** is an end-to-end analytics framework designed to evaluate and optimize renewable energy systems using data mining and machine learning.  
+It transforms raw solar, wind, and hydro data into actionable insights that enhance efficiency, reliability, and sustainability.
 
-Comprehensive Data Mining: Extracts performance patterns from solar, wind, and hydro datasets.
+> 💡 *Because the future of energy isn’t just renewable — it’s intelligent.*
 
-Predictive Modeling: Employs ML algorithms to forecast energy output and efficiency.
+---
 
-Comparative Evaluation: Benchmarks renewable energy sources using standardized metrics.
+## ⚡ Core Capabilities
+- 🔍 **Deep Data Mining:** Extracts key performance patterns from large-scale renewable datasets.  
+- 🧠 **Predictive Modeling:** Forecasts energy generation using advanced ML algorithms.  
+- 🧩 **Comparative Evaluation:** Benchmarks different renewable sources on key performance indicators.  
+- 🌐 **Dynamic Visualization:** Generates dashboards and reports for real-time energy insights.  
+- ⚙️ **Modular Design:** Scalable architecture adaptable to diverse datasets and use cases.  
 
-Interactive Visualizations: Delivers data dashboards and trend maps for real-time insights.
+---
 
-Scalable Architecture: Designed for extensibility across diverse energy data formats.
+## 🧱 Tech Stack
 
-⚙️ Tech Stack
-Layer	Technologies
-Language	Python 3.11+
-Data Mining	Pandas, NumPy, Scikit-learn
-Visualization	Matplotlib, Plotly, Seaborn
-Storage	CSV, SQL, or cloud-based datasets
-Version Control	Git + GitHub
+| Layer | Tools & Libraries |
+|-------|-------------------|
+| Programming Language | Python 3.11+ |
+| Data Mining & ML | Pandas, NumPy, Scikit-learn |
+| Visualization | Matplotlib, Plotly, Seaborn |
+| Storage | CSV / SQL / Cloud-based data lakes |
+| Version Control | Git + GitHub |
+
+---
+
+## 🗂️ Project Structure
+```
+GreenSight/
+│
+├── data/ # Augmented Dataset
+│
+├── notebook/ # Main Jupyter notebook containing all workflows
+│
+├── results/ # Outputs such as figures, metrics, and reports
+│
+├── docs/ # Documentation, references, or research notes
+│
+├── .gitignore # Specifies files and folders to be ignored by Git
+│
+├── LICENSE # License file for open-source usage
+│
+├── README.md # Project documentation (this file)
+│
+└── requirements.txt # List of dependencies and Python packages
