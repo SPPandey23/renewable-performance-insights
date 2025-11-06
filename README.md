@@ -40,7 +40,7 @@ GreenSight/
 ├── data/ # Augmented Dataset
 │
 ├── notebook/ # Main Jupyter notebook containing all workflows
-│
+│└── greensight_main.ipynb
 ├── results/ # Outputs such as figures, metrics, and reports
 │
 ├── docs/ # Documentation, references, or research notes
