@@ -1,0 +1,33 @@
+# .gitignore
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Datasets and results
+data/raw/
+data/processed/
+results/
+
+# IDE & editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
